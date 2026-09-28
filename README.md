@@ -1,55 +1,87 @@
 # Hi, I'm Ahmad Mehmood 👋
 
-**Full-Stack & Mobile Developer based in Pakistan**
+Full-Stack & Mobile Developer from Pakistan focused on building practical mobile applications, full-stack web systems, offline-first products, and scalable user-focused software.
 
-I build fast, type-safe, and offline-first mobile applications alongside modern full-stack web platforms. My focus is on clean architecture, practical utility, and reliable engineering.
+## What I Build
 
----
+- Mobile applications with React Native & Expo
+- Full-stack web applications with Next.js
+- REST/API-backed systems
+- Offline-first applications
+- Responsive production interfaces
+- Android/Web hybrid applications
 
-### 🛠️ Core Technical Stack
+## Tech Stack
 
-- **Mobile**: React Native, Expo, Android Architecture, Device Sensors (Magnetometer/GPS), Local Notifications, Capacitor
-- **Frontend**: Next.js, React, TypeScript, JavaScript, Tailwind CSS, Framer Motion
-- **Backend & APIs**: Node.js, Express, REST APIs, Prisma ORM
-- **Cloud & Databases**: Supabase, Firebase, PostgreSQL, MongoDB, Local Persistence (AsyncStorage)
-- **Tooling**: Git, GitHub, VS Code, npm
+### Mobile
+React Native  
+Expo  
+Capacitor
 
----
+### Frontend
+React  
+Next.js  
+TypeScript  
+JavaScript  
+Tailwind CSS  
+Framer Motion
 
-### 🚀 Featured Projects
+### Backend
+Node.js  
+Express  
+REST APIs
 
-## 📱 Namaz Reminder — Pakistan
+### Database / Cloud
+PostgreSQL  
+Supabase  
+Prisma  
+Firebase  
+MongoDB
 
-Offline-first Islamic prayer companion designed around high-precision astronomical calculations, real-time Qibla direction, local notification scheduling, bilingual Urdu/English support, and practical Islamic utilities.
+### Tools
+Git  
+GitHub
 
-- **Stack**: React Native • Expo • TypeScript • Adhan • Device Sensors • AsyncStorage
-- **Key Features**: Karachi UISK 18°/18° calculation method, Hanafi Asr ratio, live magnetometer Qibla compass, full RTL layout switching, Qaza Namaz & Roza tracking, Adhkar, and Qur'an reader.
-- **Repository**: `Private` *(Source repository currently private)*
-- **Deliverable**: Standalone production Android APK packaged.
+## Featured Projects
 
----
+### Namaz Reminder — Pakistan
+- React Native / Expo / TypeScript
+- offline-first
+- Pakistan-focused prayer calculations
+- Qibla compass
+- local notifications
+- Urdu/English RTL
+- Qur'an / Adhkar / Qaza utilities
 
-## 🎙️ VoiceCraft
+Source: Private
 
-AI-powered multi-provider text-to-speech platform combining modern Next.js architecture, speech synthesis providers, transactional credit handling, and Android packaging.
+### VoiceCraft
+- Next.js
+- TTS
+- multi-provider voice architecture
+- Supabase/PostgreSQL
+- Prisma
+- Capacitor Android
 
-- **Stack**: Next.js 14 • TypeScript • Prisma ORM • Supabase (PostgreSQL) • ElevenLabs • Hugging Face • Capacitor
-- **Key Features**: Multi-provider dispatcher with automatic timeout failovers, atomic credit accounting with failure auto-refunds, Google AdMob Rewarded Ads with Server-Side Verification (SSV) cryptographic ECDSA signature checks, and full synthesis dashboard routes.
-- **Repository**: `Private` *(Source repository currently private)*
-- **Deliverable**: Packaged for Android via Capacitor with production APK output.
+Source: Private
 
----
+### Referral Guide
+- responsive development
+- landing-page implementation
+- referral CTA flow
+- SEO implementation
 
-## 🌐 [Developer Portfolio](https://github.com/ahmedmahmood3839-star/portfolio)
+Live Demo: [https://br-guide.devs.surf/](https://br-guide.devs.surf/)
 
-Modern, high-performance developer portfolio showcasing verified engineering case studies, fluid route transitions, and responsive mobile-to-desktop design with zero placeholder demo metrics.
+### Developer Portfolio
+- Next.js
+- responsive design
+- Framer Motion
+- project case studies
+- live deployment
 
-- **Stack**: Next.js • React • Tailwind CSS • Framer Motion • tsParticles
-- **Repository**: [ahmedmahmood3839-star/portfolio](https://github.com/ahmedmahmood3839-star/portfolio) *(Public)*
+Source Code: [ahmedmahmood3839-star/portfolio](https://github.com/ahmedmahmood3839-star/portfolio)
 
----
+## Contact
 
-### 📬 Connect With Me
-
-- **Email**: [ahmedmahmood3839@gmail.com](mailto:ahmedmahmood3839@gmail.com)
-- **GitHub**: [@ahmedmahmood3839-star](https://github.com/ahmedmahmood3839-star)
+- Email: [ahmedmahmood3839@gmail.com](mailto:ahmedmahmood3839@gmail.com)
