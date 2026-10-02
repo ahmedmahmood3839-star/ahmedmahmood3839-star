@@ -2,6 +2,16 @@
 
 Full-Stack & Mobile Developer from Pakistan focused on building practical mobile applications, full-stack web systems, offline-first products, and scalable user-focused software.
 
+## Inspire Digital Studio
+
+I help remote clients build business websites, web applications, and mobile apps.
+
+- [View my portfolio](https://modern-portfolio-main-tau.vercel.app/)
+- [Discuss a project by email](mailto:ahmedmahmood3839@gmail.com)
+- Phone: +92 305 6593023
+
+Tell me your project goals, main features, timeline, and budget range. We can agree on the scope before starting.
+
 ## What I Build
 
 - Mobile applications with React Native & Expo
